@@ -1,6 +1,6 @@
 <?php
 
-namespace Sopinet\Admin\BaseBundle\DependencyInjection;
+namespace Sopinet\Bundle\AdminBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;

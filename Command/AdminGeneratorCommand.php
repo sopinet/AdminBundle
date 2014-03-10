@@ -1,5 +1,5 @@
 <?php 
-namespace Sopinet\Admin\BaseBundle\Command;
+namespace Sopinet\Bundle\AdminBundle\Command;
 
 use Sensio\Bundle\GeneratorBundle\Command\GeneratorCommand;
 use Symfony\Component\Console\Input\InputOption;
