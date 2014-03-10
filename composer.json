@@ -1,0 +1,23 @@
+{
+    "name": "sopinet/admin-bundle",
+    "version": "0.0.1",
+    "description": "Symfony2 Admin Generator",
+    "keywords": ["admin", "generator", "symfony2", "bundle"],
+    "type": "symfony-bundle",
+    "license": "GPL2",
+    "minimum-stability" : "dev",
+    "authors": [
+        {
+            "name": "Juan Martos",
+            "email": "jmartos@sopinet.com",
+            "homepage": "http://sopinet.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+    },
+    "autoload": {
+        "psr-0": { "Sopinet\\Bundle\\AdminBundle": "" }
+    },
+    "target-dir": "Sopinet/Bundle/AdminBundle"
+}
